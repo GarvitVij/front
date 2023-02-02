@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+    margin: 16px;
+    font-family: 'Source Serif Pro', serif;
+    color:rgb(27, 27, 27)
+    
+}
+
+.box:hover{
+    cursor: pointer;
+}
+
